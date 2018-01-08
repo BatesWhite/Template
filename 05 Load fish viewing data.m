@@ -1,5 +1,6 @@
-BW Header
+% BW Header
 
-Load data on tourist visits downstream from the fish farm including the amount of spent time visiting the downstream area and the amount of live fish available for viewing
+Load data on tourist visits to the spot downstream from the fish farm including the cost of admission, the cost of gas, and the temperature of the water.
 
 * EOF *
+
